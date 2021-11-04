@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.src.Core.HR.LeaveManagement.Doamin FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HRLeaveManagement" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="HR.LeaveManagement.Domain" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
